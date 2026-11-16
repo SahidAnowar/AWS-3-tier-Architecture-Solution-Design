@@ -28,7 +28,8 @@ A hands-on build of a highly available three-tier web application on AWS. The ne
 
 ## 1. Architecture
 
-![Architecture Diagram](application-code/web-tier/src/assets/3TierArch.png)
+<img width="1214" height="548" alt="image" src="https://github.com/user-attachments/assets/1b236a35-8a70-4c51-ad69-d3a90a551720" />
+
 
 Request flow:
 
